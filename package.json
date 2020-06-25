@@ -1,0 +1,24 @@
+{
+  "name": "bt-weatherbot",
+  "version": "1.0.0",
+  "description": "Twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohya8/bt-weatherbot.git"
+  },
+  "author": "Rohit Wadke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohya8/bt-weatherbot/issues"
+  },
+  "homepage": "https://github.com/rohya8/bt-weatherbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  }
+}
